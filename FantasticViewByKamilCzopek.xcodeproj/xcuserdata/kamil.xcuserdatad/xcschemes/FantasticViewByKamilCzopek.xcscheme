@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8E4327B91E5DCA69003E8D71"
-            BuildableName = "FantasticView.app"
-            BlueprintName = "FantasticView"
-            ReferencedContainer = "container:FantasticView.xcodeproj">
+            BuildableName = "FantasticViewByKamilCzopek.app"
+            BlueprintName = "FantasticViewByKamilCzopek"
+            ReferencedContainer = "container:FantasticViewByKamilCzopek.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "8E4327B91E5DCA69003E8D71"
-            BuildableName = "FantasticView.app"
-            BlueprintName = "FantasticView"
-            ReferencedContainer = "container:FantasticView.xcodeproj">
+            BuildableName = "FantasticViewByKamilCzopek.app"
+            BlueprintName = "FantasticViewByKamilCzopek"
+            ReferencedContainer = "container:FantasticViewByKamilCzopek.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>

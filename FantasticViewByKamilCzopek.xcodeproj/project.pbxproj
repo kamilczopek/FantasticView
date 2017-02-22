@@ -7,23 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8E4327BE1E5DCA69003E8D71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4327BD1E5DCA69003E8D71 /* AppDelegate.swift */; };
-		8E4327C01E5DCA69003E8D71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4327BF1E5DCA69003E8D71 /* ViewController.swift */; };
-		8E4327C31E5DCA69003E8D71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4327C11E5DCA69003E8D71 /* Main.storyboard */; };
-		8E4327C51E5DCA69003E8D71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4327C41E5DCA69003E8D71 /* Assets.xcassets */; };
-		8E4327C81E5DCA69003E8D71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4327C61E5DCA69003E8D71 /* LaunchScreen.storyboard */; };
-		8E4327D01E5DCA88003E8D71 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4327CF1E5DCA88003E8D71 /* FantasticView.swift */; };
+		8E4327E31E5DD510003E8D71 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4327E21E5DD510003E8D71 /* AppDelegate.swift */; };
+		8E4327E81E5DD51E003E8D71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E4327E41E5DD51E003E8D71 /* Assets.xcassets */; };
+		8E4327E91E5DD51E003E8D71 /* FantasticView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4327E51E5DD51E003E8D71 /* FantasticView.swift */; };
+		8E4327EA1E5DD51E003E8D71 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8E4327E61E5DD51E003E8D71 /* Info.plist */; };
+		8E4327EB1E5DD51E003E8D71 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E4327E71E5DD51E003E8D71 /* ViewController.swift */; };
+		8E4327F01E5DD547003E8D71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4327EC1E5DD547003E8D71 /* LaunchScreen.storyboard */; };
+		8E4327F11E5DD547003E8D71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8E4327EE1E5DD547003E8D71 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		8E4327BA1E5DCA69003E8D71 /* FantasticView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FantasticView.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		8E4327BD1E5DCA69003E8D71 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8E4327BF1E5DCA69003E8D71 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		8E4327C21E5DCA69003E8D71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		8E4327C41E5DCA69003E8D71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8E4327C71E5DCA69003E8D71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		8E4327C91E5DCA69003E8D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8E4327CF1E5DCA88003E8D71 /* FantasticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FantasticView.swift; sourceTree = "<group>"; };
+		8E4327BA1E5DCA69003E8D71 /* FantasticViewByKamilCzopek.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FantasticViewByKamilCzopek.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8E4327E21E5DD510003E8D71 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = FantasticViewByKamilCzopek/AppDelegate.swift; sourceTree = SOURCE_ROOT; };
+		8E4327E41E5DD51E003E8D71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = FantasticViewByKamilCzopek/Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		8E4327E51E5DD51E003E8D71 /* FantasticView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FantasticView.swift; path = FantasticViewByKamilCzopek/FantasticView.swift; sourceTree = SOURCE_ROOT; };
+		8E4327E61E5DD51E003E8D71 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = FantasticViewByKamilCzopek/Info.plist; sourceTree = SOURCE_ROOT; };
+		8E4327E71E5DD51E003E8D71 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = FantasticViewByKamilCzopek/ViewController.swift; sourceTree = SOURCE_ROOT; };
+		8E4327ED1E5DD547003E8D71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = FantasticViewByKamilCzopek/Base.lproj/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
+		8E4327EF1E5DD547003E8D71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = FantasticViewByKamilCzopek/Base.lproj/Main.storyboard; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +41,7 @@
 		8E4327B11E5DCA69003E8D71 = {
 			isa = PBXGroup;
 			children = (
-				8E4327BC1E5DCA69003E8D71 /* FantasticView */,
+				8E4327BC1E5DCA69003E8D71 /* FantasticViewByKamilCzopek */,
 				8E4327BB1E5DCA69003E8D71 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,31 +49,32 @@
 		8E4327BB1E5DCA69003E8D71 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8E4327BA1E5DCA69003E8D71 /* FantasticView.app */,
+				8E4327BA1E5DCA69003E8D71 /* FantasticViewByKamilCzopek.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		8E4327BC1E5DCA69003E8D71 /* FantasticView */ = {
+		8E4327BC1E5DCA69003E8D71 /* FantasticViewByKamilCzopek */ = {
 			isa = PBXGroup;
 			children = (
-				8E4327BD1E5DCA69003E8D71 /* AppDelegate.swift */,
-				8E4327BF1E5DCA69003E8D71 /* ViewController.swift */,
-				8E4327C11E5DCA69003E8D71 /* Main.storyboard */,
-				8E4327C41E5DCA69003E8D71 /* Assets.xcassets */,
-				8E4327C61E5DCA69003E8D71 /* LaunchScreen.storyboard */,
-				8E4327C91E5DCA69003E8D71 /* Info.plist */,
-				8E4327CF1E5DCA88003E8D71 /* FantasticView.swift */,
+				8E4327EC1E5DD547003E8D71 /* LaunchScreen.storyboard */,
+				8E4327EE1E5DD547003E8D71 /* Main.storyboard */,
+				8E4327E41E5DD51E003E8D71 /* Assets.xcassets */,
+				8E4327E51E5DD51E003E8D71 /* FantasticView.swift */,
+				8E4327E61E5DD51E003E8D71 /* Info.plist */,
+				8E4327E71E5DD51E003E8D71 /* ViewController.swift */,
+				8E4327E21E5DD510003E8D71 /* AppDelegate.swift */,
 			);
+			name = FantasticViewByKamilCzopek;
 			path = FantasticView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8E4327B91E5DCA69003E8D71 /* FantasticView */ = {
+		8E4327B91E5DCA69003E8D71 /* FantasticViewByKamilCzopek */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8E4327CC1E5DCA69003E8D71 /* Build configuration list for PBXNativeTarget "FantasticView" */;
+			buildConfigurationList = 8E4327CC1E5DCA69003E8D71 /* Build configuration list for PBXNativeTarget "FantasticViewByKamilCzopek" */;
 			buildPhases = (
 				8E4327B61E5DCA69003E8D71 /* Sources */,
 				8E4327B71E5DCA69003E8D71 /* Frameworks */,
@@ -82,9 +84,9 @@
 			);
 			dependencies = (
 			);
-			name = FantasticView;
+			name = FantasticViewByKamilCzopek;
 			productName = FantasticView;
-			productReference = 8E4327BA1E5DCA69003E8D71 /* FantasticView.app */;
+			productReference = 8E4327BA1E5DCA69003E8D71 /* FantasticViewByKamilCzopek.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -104,7 +106,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8E4327B51E5DCA69003E8D71 /* Build configuration list for PBXProject "FantasticView" */;
+			buildConfigurationList = 8E4327B51E5DCA69003E8D71 /* Build configuration list for PBXProject "FantasticViewByKamilCzopek" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -117,7 +119,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8E4327B91E5DCA69003E8D71 /* FantasticView */,
+				8E4327B91E5DCA69003E8D71 /* FantasticViewByKamilCzopek */,
 			);
 		};
 /* End PBXProject section */
@@ -127,9 +129,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E4327C81E5DCA69003E8D71 /* LaunchScreen.storyboard in Resources */,
-				8E4327C51E5DCA69003E8D71 /* Assets.xcassets in Resources */,
-				8E4327C31E5DCA69003E8D71 /* Main.storyboard in Resources */,
+				8E4327E81E5DD51E003E8D71 /* Assets.xcassets in Resources */,
+				8E4327F11E5DD547003E8D71 /* Main.storyboard in Resources */,
+				8E4327F01E5DD547003E8D71 /* LaunchScreen.storyboard in Resources */,
+				8E4327EA1E5DD51E003E8D71 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -140,29 +143,29 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8E4327C01E5DCA69003E8D71 /* ViewController.swift in Sources */,
-				8E4327BE1E5DCA69003E8D71 /* AppDelegate.swift in Sources */,
-				8E4327D01E5DCA88003E8D71 /* FantasticView.swift in Sources */,
+				8E4327EB1E5DD51E003E8D71 /* ViewController.swift in Sources */,
+				8E4327E31E5DD510003E8D71 /* AppDelegate.swift in Sources */,
+				8E4327E91E5DD51E003E8D71 /* FantasticView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		8E4327C11E5DCA69003E8D71 /* Main.storyboard */ = {
+		8E4327EC1E5DD547003E8D71 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				8E4327C21E5DCA69003E8D71 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		8E4327C61E5DCA69003E8D71 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8E4327C71E5DCA69003E8D71 /* Base */,
+				8E4327ED1E5DD547003E8D71 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		8E4327EE1E5DD547003E8D71 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8E4327EF1E5DD547003E8D71 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -264,9 +267,8 @@
 		8E4327CD1E5DCA69003E8D71 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = CT4DLUK6VJ;
-				INFOPLIST_FILE = FantasticView/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/FantasticViewByKamilCzopek/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pl.kamilczopek.FantasticView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -277,9 +279,8 @@
 		8E4327CE1E5DCA69003E8D71 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = CT4DLUK6VJ;
-				INFOPLIST_FILE = FantasticView/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/FantasticViewByKamilCzopek/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = pl.kamilczopek.FantasticView;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -290,7 +291,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8E4327B51E5DCA69003E8D71 /* Build configuration list for PBXProject "FantasticView" */ = {
+		8E4327B51E5DCA69003E8D71 /* Build configuration list for PBXProject "FantasticViewByKamilCzopek" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8E4327CA1E5DCA69003E8D71 /* Debug */,
@@ -299,13 +300,14 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8E4327CC1E5DCA69003E8D71 /* Build configuration list for PBXNativeTarget "FantasticView" */ = {
+		8E4327CC1E5DCA69003E8D71 /* Build configuration list for PBXNativeTarget "FantasticViewByKamilCzopek" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8E4327CD1E5DCA69003E8D71 /* Debug */,
 				8E4327CE1E5DCA69003E8D71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
